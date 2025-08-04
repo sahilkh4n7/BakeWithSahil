@@ -55,8 +55,8 @@ To run this project locally:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/sahikh4n7/bake-with-sahil.git
-   cd bake-with-sahil
+   git clone  https://github.com/sahilkh4n7/BakeWithSahil.git
+   cd BakeWithSahil
 2. Open a.html in your browser:
 
 You can double-click it, or
