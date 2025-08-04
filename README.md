@@ -65,7 +65,7 @@ Use Live Server in VS Code
 
 🌐 View Live
 Coming soon on GitHub Pages:
-https://sahilkh4n7.github.io/bake-with-sahil/
+https://sahilkh4n7.github.io/BakeWithSahil/
 
 🙌 Acknowledgements
 This project was built as part of a front-end learning journey to improve HTML/CSS skills. Inspired by classic desserts and elegant design.
